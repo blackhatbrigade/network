@@ -1,3 +1,8 @@
 package network
 
-func 
+import "fmt"
+
+func Status() 
+{
+  fmt.Println("This is the status")
+}
